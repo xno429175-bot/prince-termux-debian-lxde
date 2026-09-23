@@ -41,11 +41,7 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
-### Why HTTPS?
 
-This repository is public, so the README uses an **HTTPS clone URL**. Do not replace it with an SSH URL unless you have configured your own GitHub SSH key.
-
-The `setup.sh` script **does not clone another repository**. It runs the installer already downloaded with this repository. This prevents the old second-clone username/password problem.
 
 ## 🖥️ Start LXDE
 
